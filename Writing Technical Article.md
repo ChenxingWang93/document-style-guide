@@ -29,7 +29,16 @@ The goal of a paper is to describe novel technical results. There are four types
   4.A theory: consisting of a collection of theorems.
 
 
+A paper should focus on 
+
+- describing the results in sufficient details to establish their validity;
+- identifying the novel aspects of the results, i.e., what new knowledge is reported and what makes it non-obvious;
+- identifying the significance of the results: what improvements and impact do they suggest.
+
 ## Paper Structure 
+- Typical outline of a paper is:
+   - Abstract, typically not more than 100-150 words;
+   -        
 
 ## Title 
 
