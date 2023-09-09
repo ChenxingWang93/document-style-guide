@@ -38,7 +38,15 @@ A paper should focus on
 ## Paper Structure 
 - Typical outline of a paper is:
    - Abstract, typically not more than 100-150 words;
-   -        
+   - [Introduction](https://www.cs.columbia.edu/~hgs/etc/intro-style.html)(brief!): introduce problem, outline solution; the statement of the problem should include a clear statement why the problem is important (or interesting).
+   - Related Work (or before summary). Hint: In the case of a conference, make sure to cite the work of the PC co-chairs and as many other PC members as are remotely plausible, as well as from anything relevant from the previous two proceedings. In the case of a journal or magazine, cite anything relevant from last 2-3 years or so volumes.
+   - Outline of the rest of the paper: "The remainder of the paper is organized as follows. In Section 2, we introduce ..Section 3 describes ... Finally, we describe future work in Section 5." [Note that Section is capitalized. Also, vary your expression between "section" being the subject of the sentence, as in "Section 2 discusses ..." and "In Section, we discuss ...".]
+   - Body of paper
+     - problem
+     - approach, architecture
+     - results
+   -  
+
 
 ## Title 
 
