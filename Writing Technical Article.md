@@ -83,3 +83,6 @@ A paper should focus on
 ## Contributors
 
 ## Translations
+
+## Reference 参考
+[WritingTechnicalArticles](https://www.cs.columbia.edu/~hgs/etc/writing-style.html)
