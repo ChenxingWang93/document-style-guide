@@ -70,6 +70,12 @@ A paper should focus on
 
 ## Authors
 
+<details>
+<summary> 手写✍️ TitleAuthor </summary>
+
+![6921698647893_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/ac65f152-0866-4f93-8c78-661565555596)
+</details>
+
 ## Abstract
 
 ## Introduction 
