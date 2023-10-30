@@ -42,7 +42,14 @@ A paper should focus on
 - identifying the novel aspects of the results, i.e., what new knowledge is reported and what makes it non-obvious;
 - identifying the significance of the results: what improvements and impact do they suggest.
 
-## Paper Structure 
+## Paper Structure
+<details>
+        
+<summary> 手写✍️ PaperStructure </summary>
+
+![6901698647884_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/0ee34a8b-c40b-4d6a-828a-1d5cb30cec09)
+</details>
+
 - Typical outline of a paper is:
    - Abstract, typically not more than 100-150 words;
    - [Introduction](https://www.cs.columbia.edu/~hgs/etc/intro-style.html)(brief!): introduce problem, outline solution; the statement of the problem should include a clear statement why the problem is important (or interesting).
