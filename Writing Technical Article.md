@@ -60,7 +60,11 @@ A paper should focus on
      - approach, architecture
      - results
    -  
+<details>
+<summary> 手写✍️ ArchitectureRealizationEvaluation </summary>
 
+![6911698647888_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/772af7c4-fdaa-4ef4-92db-37a7dd1cf10d)
+</details>
 
 ## Title 
 
