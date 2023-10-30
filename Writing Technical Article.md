@@ -77,7 +77,13 @@ A paper should focus on
 </details>
 
 ## Abstract
+<details>
+<summary> 手写✍️ Abstract </summary>
+        
+![6941698647909_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/91249526-05ea-447e-9aa2-f1839d583753)
 
+</details>
+        
 ## Introduction 
 
 ## Body of Paper
