@@ -1,4 +1,11 @@
 # Writing Technical Articles 
+
+<details>
+<summary> 手写✍️ WritingTechnicalArticles ResearchPaper </summary>
+        
+![6891698647841_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/e96cad99-f84c-4589-9ab6-8968ecfb03eb)
+</details>
+        
 the notes below apply to technical papers in computer science and electrical engineering on papers in systems and networks.
 
 Read Strunk and White, **Elements of Style**. Again.
