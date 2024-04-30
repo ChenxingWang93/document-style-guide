@@ -99,14 +99,14 @@ The body should contain sufficient motivation, with at least one example scenari
 ## Authors
 
 <details>
-<summary> 手写✍️ TitleAuthor </summary>
+<summary> 手写✍️ </summary>
         
 ![6921698647893_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/ac65f152-0866-4f93-8c78-661565555596)
 </details>
 
 ## Abstract
 <details>
-<summary> 手写✍️ Abstract </summary>
+<summary> 手写✍️ </summary>
         
 ![6941698647909_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/91249526-05ea-447e-9aa2-f1839d583753)
 
