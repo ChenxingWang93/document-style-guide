@@ -92,8 +92,23 @@ of proposed system(s) to achieve this model should be more generic than your own
 
 ***Realization***
 
+contains actual implementation details when implementing architecture isn't totally straightforward. Mention briefly implementation language, platform, location, dependencies on other packages and minimum resource usage if pertinent.
+
 ***Evaluation***
 
+How does it really work in practice? Provide real or simulated performance metrics, end-user studies, mention external technology adoptors, if any, etc.
+
+- Related work, if not covered at the beginning.
+- Summary and Future Work
+        - often repeats the main result
+- Acknowledgements
+- Bibliography
+- Appendix(to be cut first it forced to):
+        - detailed protocol descriptions
+        - proofs with more than two lines
+        - other low-level but important details
+
+it is recommended that you write the approach and results sections first, which go together. Then problem section, if it is separate from the introduction. Then the conclusions, then the intro. Write the intro last since it glosses the conclusions in one of the last paragraphs. Finally, write the abstract. Last, give your paper a title.
 
 ## Title 
 
