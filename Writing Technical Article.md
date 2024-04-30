@@ -29,12 +29,14 @@ The goal of a paper is to describe novel technical results. There are four types
         One goal of the paper is to ensure that the next person who designs a system like yours does not make the same mistakes and takes advantage of some of your best solutions. So make sure that the hard problems (and their solutions) are discussed and the non-obvious mistakes(and how to avoid them) are discussed (Craig Partridge)
 </details>
 
-  
-  3.A performance evaluation: obtained through analyses, simulation or measurements;
 
+<details>
+<summary>3.A performance evaluation: obtained through analyses, simulation or measurements;</summary>
+</details>
 
-  4.A theory: consisting of a collection of theorems.
-
+<details>
+<summary>4.A theory: consisting of a collection of theorems.</summary>
+</details>
 
 A paper should focus on 
 
@@ -60,33 +62,45 @@ A paper should focus on
 ![6961698647921_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/5c19532f-b07a-426b-97ff-a4737575591a)
 </details>
 
-   - Related Work (or before summary). Hint: In the case of a conference, make sure to cite the work of the PC co-chairs and as many other PC members as are remotely plausible, as well as from anything relevant from the previous two proceedings. In the case of a journal or magazine, cite anything relevant from last 2-3 years or so volumes.
-   - Outline of the rest of the paper: "The remainder of the paper is organized as follows. In Section 2, we introduce ..Section 3 describes ... Finally, we describe future work in Section 5." [Note that Section is capitalized. Also, vary your expression between "section" being the subject of the sentence, as in "Section 2 discusses ..." and "In Section, we discuss ...".]
-   - Body of paper
-     - problem
-     - approach, architecture
-     - results
-   -  
+- Related Work (or before summary).
+  - Hint: In the case of a conference, make sure to cite the work of the PC co-chairs and as many other PC members as are remotely plausible, as well as from anything relevant from the previous two proceedings. In the case of a journal or magazine, cite anything relevant from last 2-3 years or so volumes.
+
+- Outline of the rest of the paper: "The remainder of the paper is organized as follows. In Section 2, we introduce ..Section 3 describes ... Finally, we describe future work in Section 5." [Note that Section is capitalized. Also, vary your expression between "section" being the subject of the sentence, as in "Section 2 discusses ..." and "In Section, we discuss ...".]
+- Body of paper
+  - problem
+  - approach, architecture
+  - results
 
 <details>
-<summary> 手写✍️ BodyOfPaper </summary>
+<summary> 手写✍️ </summary>
         
 ![6951698647917_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/26c1d373-451a-49a4-b28a-bf94b6925352)
 </details>
 
-<details>
-<summary> 手写✍️ ArchitectureRealizationEvaluation </summary>
+The body should contain sufficient motivation, with at least one example scenario, preferably two, with illustrating figures, followed by a crisp generic problem statement model, i.e., functionality, particularly emphasizing "new" functionality. The paper may or may not include formalisms. General evaluations of your algorithm or architecture, e.g., material proving that the algorithm is O(log N), go here, not in the evaluation section.
 
+
+<details>
+<summary> 手写✍️ </summary>
+        
 ![6911698647888_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/772af7c4-fdaa-4ef4-92db-37a7dd1cf10d)
 </details>
 
+***Architecture***
+
+***Realization***
+
+***Evaluation***
+
+
 ## Title 
+
 
 ## Authors
 
 <details>
 <summary> 手写✍️ TitleAuthor </summary>
-
+        
 ![6921698647893_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/ac65f152-0866-4f93-8c78-661565555596)
 </details>
 
