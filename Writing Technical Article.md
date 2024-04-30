@@ -88,6 +88,8 @@ The body should contain sufficient motivation, with at least one example scenari
 
 ***Architecture***
 
+of proposed system(s) to achieve this model should be more generic than your own peculiar implementation. Always include at least one figure.
+
 ***Realization***
 
 ***Evaluation***
