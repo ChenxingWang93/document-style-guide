@@ -47,7 +47,7 @@ A paper should focus on
 ## Paper Structure
 <details>
         
-<summary> 手写✍️ PaperStructure </summary>
+<summary> 手写✍️ </summary>
 
 ![6901698647884_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/0ee34a8b-c40b-4d6a-828a-1d5cb30cec09)
 </details>
@@ -57,7 +57,7 @@ A paper should focus on
    - [Introduction](https://www.cs.columbia.edu/~hgs/etc/intro-style.html)(brief!): introduce problem, outline solution; the statement of the problem should include a clear statement why the problem is important (or interesting).
 
 <details>
-<summary> 手写✍️ Introduction </summary>
+<summary> 手写✍️ </summary>
         
 ![6961698647921_ pic_hd](https://github.com/ChenxingWang93/document-style-guide/assets/31954987/5c19532f-b07a-426b-97ff-a4737575591a)
 </details>
